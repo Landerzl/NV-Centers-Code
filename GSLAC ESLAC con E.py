@@ -102,9 +102,8 @@ for i, Ez in enumerate(Ez_values):
 
 plt.axvline(x=1024, color='black', linestyle='--', alpha=0.5, label='GSLAC (Inmóvil)')
 
-plt.title('Desplazamiento Stark del ESLAC vs Campo Eléctrico Axial', fontsize=14)
-plt.xlabel('Magnitud del Campo Magnético B (Gauss)', fontsize=12)
-plt.ylabel('Fotoluminiscencia Estacionaria (Norm.)', fontsize=12)
+plt.xlabel('B (Gauss)', fontsize=12)
+plt.ylabel('Photoluminiscence (Norm.)', fontsize=12)
 plt.legend()
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
