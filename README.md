@@ -160,4 +160,4 @@ The ensemble and AC-field scripts are the most computationally demanding (outer 
 
 ## License
 
-This code was developed as part of an undergraduate Physics thesis (TFG). Feel free to use and adapt it for educational or research purposes.
+Se pone privado en breves...
